@@ -5,7 +5,7 @@ verity = True
 counter = 0
 
 while verity:
-    print("Hacking Pentagon in process...")
+    print(Back.GREEN + "Hacking Pentagon in process...")
     time.sleep(0)  # Slows it down so you can see it printing
     
     counter += 1
